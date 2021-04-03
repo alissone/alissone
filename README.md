@@ -44,7 +44,7 @@
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ![SQL](https://img.shields.io/badge/-SQL-33333F?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![MySQL](https://img.shields.io/badge/MySQL-33333F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=SQL+Server&logoColor=FFFFFF&label=)
+![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 

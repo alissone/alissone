@@ -1,4 +1,26 @@
 ### Hi, I'm Alisson 👋
+![profile count](https://komarev.com/ghpvc/?username=alissone&color=red)&nbsp;
+[![GitHub Alisson](https://img.shields.io/github/followers/alissone?label=follow&style=social)](https://github.com/alissone)&nbsp;
+
+
+
+## 🤔 What I'm doing currently
+
+
+👨🏻‍💻 &nbsp; **Flutter Mobile Developer** at Startiz Labs
+
+👨🏻‍💻 &nbsp; **Machine Learning Engineer** at Omdena Global (volunteer work)
+
+🎓 &nbsp; Studying **Data Science** undergraduate degree at Uninter
+
+🎓  &nbsp; Studying **Computer Science** undergraduate degree at Instituto Federal de Ciência e Tecnologia do Maranhão 
+
+🌎 &nbsp; **Coursera GTC** translator since 2019
+
+
+<br><br>
+## 🛠 Tech Stack
+
 
 
 #### Data Science and Machine Learning
@@ -62,9 +84,10 @@
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<br><br>
+## 💡 Current projects
 
 
-
-
+<br><br>
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-e/)

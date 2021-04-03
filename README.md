@@ -16,12 +16,12 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart)
-![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
+![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=FA7343&logo=Swift&logoColor=FFFFFF&label=)
+![Vimscript](https://img.shields.io/static/v1?style=for-the-badge&message=Vimscript&color=019733&logo=Vim&logoColor=FFFFFF&label=)
 
 
 #### Web and Mobile Development
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
-![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=FA7343&logo=Swift&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 
 

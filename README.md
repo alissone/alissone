@@ -88,7 +88,7 @@
 ## 💡 Current projects
 
 
-A case study on normal orientation reconstruction with convolutional neural networks from a single image [![view-more](https://img.shields.io/badge/View-more-1f425f.svg)](https://github.com/alissone/normal_maps_pix2pix)
+· A case study about reconstruction of on normal orientation convolutional neural networks from a single image [![view-more](https://img.shields.io/badge/view-1f425f.svg)](https://github.com/alissone/normal_maps_pix2pix)
 
 
 <br><br>

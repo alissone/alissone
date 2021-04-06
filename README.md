@@ -9,7 +9,7 @@
 
 👨🏻‍💻 &nbsp; **Flutter Mobile Developer** at Startiz Labs
 
-👨🏻‍💻 &nbsp; **Machine Learning Engineer** at Omdena Global (volunteer work)
+👨🏻‍💻 &nbsp; **Machine Learning Engineer** at Omdena Global *(volunteer work)*
 
 🎓 &nbsp; Studying **Data Science** undergraduate degree at Uninter
 

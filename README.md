@@ -88,7 +88,7 @@
 ## 💡 Current projects
 
 
-· [A case study about reconstruction of on normal orientation convolutional neural networks from a single image](https://github.com/alissone/normal_maps_pix2pix)
+· [A case study on reconstructing normal orientation from a single image using convolutional neural networks](https://github.com/alissone/normal_maps_pix2pix)
 
 
 <br><br>

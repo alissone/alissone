@@ -84,7 +84,17 @@
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br><br>
+
+<p align="center">
+    <a href="https://github.com/alissone?tab=repositories">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissone&layout=compact&theme=dark&hide_border=true&langs_count=7"
+      />
+    </a>
+  </p>
+<br>
+<br>
 ## 💡 Current projects
 
 

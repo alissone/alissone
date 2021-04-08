@@ -1,7 +1,7 @@
 ### Hi, I'm Alisson 👋
-![profile count](https://komarev.com/ghpvc/?username=alissone&color=red)&nbsp;
-[![GitHub Alisson](https://img.shields.io/github/followers/alissone?label=follow&style=social)](https://github.com/alissone)&nbsp;
-
+[![Follow me on LinkedIn](https://img.shields.io/badge/let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-e/)
+&nbsp; ![profile count](https://komarev.com/ghpvc/?username=alissone&color=red)&nbsp;
+&nbsp; [![GitHub Alisson](https://img.shields.io/github/followers/alissone?label=follow&style=social)](https://github.com/alissone)&nbsp;
 
 
 ## 🤔 What I'm doing currently
@@ -100,13 +100,22 @@
 ## 💡 Ongoing personal projects
 
 
-· [Case study on reconstructing normal orientation from a single image using convolutional neural networks](https://github.com/alissone/normal_maps_pix2pix)
+[Case study on reconstructing normal orientation from a single image using convolutional neural networks](https://github.com/alissone/normal_maps_pix2pix)
 
-· [Instagram bot to retrieve informations from an user](https://github.com/alissone/instagram_bot)
+[Instagram bot to retrieve informations from an user](https://github.com/alissone/instagram_bot)
 
-· [Discord music bot in Python](https://github.com/alissone/discord_music_bot)
+[Discord music bot in Python](https://github.com/alissone/discord_music_bot)
+
+[Discord minecraft wiki bot in python](https://github.com/alissone/discord_minecraft_wiki_bot)
+
+<br><br>
+
+
+## 🕒  Previous work
+
+[Uneve Dashboard](https://uneve.com)
+
+[Aggio Dashboard](https://aggio.app)
 
 
 <br><br>
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-e/)

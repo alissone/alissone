@@ -85,14 +85,14 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p align="center">
-    <a href="https://github.com/alissone?tab=repositories">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissone&layout=compact&theme=dark&hide_border=true&langs_count=7"
-      />
-    </a>
-  </p>
+
+<a href="https://github.com/alissone?tab=repositories">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissone&layout=compact&theme=dark&hide_border=true&langs_count=7"
+  />
+</a>
+
 <br>
 <br>
 ## 💡 Current projects

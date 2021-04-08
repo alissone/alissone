@@ -3,6 +3,7 @@
 &nbsp; ![profile count](https://komarev.com/ghpvc/?username=alissone&color=red)&nbsp;
 &nbsp; [![GitHub Alisson](https://img.shields.io/github/followers/alissone?label=follow&style=social)](https://github.com/alissone)&nbsp;
 
+<br>
 
 ## 🤔 What I'm doing currently
 
@@ -18,7 +19,8 @@
 🌎 &nbsp; **Coursera GTC** translator since 2019
 
 
-<br><br>
+<br>
+
 ## 🛠 Tech Stack
 
 

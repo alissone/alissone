@@ -100,11 +100,11 @@
 ## 💡 Ongoing projects
 
 
-· [A case study on reconstructing normal orientation from a single image using convolutional neural networks](https://github.com/alissone/normal_maps_pix2pix)
+· [Case study on reconstructing normal orientation from a single image using convolutional neural networks](https://github.com/alissone/normal_maps_pix2pix)
 
-· [A instagram bot to retrieve informations from an user](https://github.com/alissone/instagram_bot)
+· [Instagram bot to retrieve informations from an user](https://github.com/alissone/instagram_bot)
 
-· [A Discord music bot in Python](https://github.com/alissone/discord_music_bot)
+· [Discord music bot in Python](https://github.com/alissone/discord_music_bot)
 
 
 <br><br>

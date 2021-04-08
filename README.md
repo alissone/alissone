@@ -7,7 +7,7 @@
 ## 🤔 What I'm doing currently
 
 
-👨🏻‍💻 &nbsp; **Flutter Mobile Developer** at Startiz Labs
+👨🏻‍💻 &nbsp; **Flutter Mobile Developer** at Startiz Labs [ App Store](https://apps.apple.com/br/app/uneve/id1486208965) [📱 Google Play](https://play.google.com/store/apps/details?id=br.com.uneve.app)
 
 👨🏻‍💻 &nbsp; **Machine Learning Engineer** at Omdena Global *(volunteer work)*
 
@@ -97,7 +97,7 @@
 <br>
 
 
-## 💡 Ongoing projects
+## 💡 Ongoing personal projects
 
 
 · [Case study on reconstructing normal orientation from a single image using convolutional neural networks](https://github.com/alissone/normal_maps_pix2pix)

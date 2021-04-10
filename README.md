@@ -1,4 +1,4 @@
-### Hi, I'm Alisson 👋
+### Hi, I'm Alisson <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 [![Follow me on LinkedIn](https://img.shields.io/badge/let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-e/)
 &nbsp; ![profile count](https://komarev.com/ghpvc/?username=alissone&color=red)&nbsp;
 &nbsp; [![GitHub Alisson](https://img.shields.io/github/followers/alissone?label=follow&style=social)](https://github.com/alissone)&nbsp;

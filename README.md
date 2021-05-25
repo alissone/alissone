@@ -101,6 +101,7 @@
 
 ## 💡 Ongoing personal projects
 
+[Simple QR Code Generator](https://github.com/alissone/qr_code_generator)
 
 [Case study on reconstructing normal orientation from a single image using convolutional neural networks](https://github.com/alissone/normal_maps_pix2pix)
 

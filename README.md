@@ -8,8 +8,6 @@
 ## 🤔 What I'm doing currently
 
 
-👨🏻‍💻 &nbsp; **Flutter Mobile Developer** at Startiz Labs [ App Store](https://apps.apple.com/br/app/uneve/id1486208965) [📱 Google Play](https://play.google.com/store/apps/details?id=br.com.uneve.app)
-
 👨🏻‍💻 &nbsp; **Machine Learning Engineer** at Omdena Global *(volunteer work)*
 
 🎓 &nbsp; Studying **Data Science** undergraduate degree at Uninter
@@ -115,6 +113,10 @@
 
 
 ## 🕒  Previous work
+
+[Uneve App - App Store](https://apps.apple.com/br/app/uneve/id1486208965)
+
+[Uneve App - Google Play](https://play.google.com/store/apps/details?id=br.com.uneve.app)
 
 [Uneve Dashboard](https://uneve.com)
 

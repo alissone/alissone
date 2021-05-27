@@ -8,6 +8,8 @@
 ## 🤔 What I'm doing currently
 
 
+👨🏻‍💻 &nbsp; **Flutter Mobile Developer** at Vamo
+
 👨🏻‍💻 &nbsp; **Machine Learning Engineer** at Omdena Global *(volunteer work)*
 
 🎓 &nbsp; Studying **Data Science** undergraduate degree at Uninter

@@ -7,10 +7,9 @@
 
 ## 🤔 What I'm doing currently
 
+👨🏻‍💻 &nbsp; **Android Developer** at FWK - Innovation Design
 
 👨🏻‍💻 &nbsp; **Mobile Engineer** at Vamo
-
-👨🏻‍💻 &nbsp; **Machine Learning Engineer** at Omdena Global *(volunteer work)*
 
 🎓 &nbsp; Studying **Data Science** undergraduate degree at Uninter
 
@@ -133,6 +132,10 @@
 [Uneve Dashboard](https://uneve.com)
 
 [Aggio Dashboard](https://aggio.app)
+
+[Sportzpeak Website and Mobile Apps](https://sportzpeak.com/)
+
+[Omdena Techstars Energy Tech Project](https://omdena.com/projects/detecting-rooftops/)
 
 
 <br><br>

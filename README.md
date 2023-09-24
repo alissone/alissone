@@ -21,7 +21,7 @@
 # 🕒  Previous work
 
 
-<img width="960" alt="VamoAppStory" src="https://github.com/alissone/alissone/assets/6274136/60000823-fead-4d1a-8ca7-c0a6bffeeecc">
+<img width="970" alt="VamoApp Story" src="https://github.com/alissone/alissone/assets/6274136/76459b8e-e9c6-4ab6-bd84-9b369f80e520">
 
 
 

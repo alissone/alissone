@@ -18,7 +18,13 @@
 
 <br>
 
+
+![This page looks better in a dark theme](https://github.com/alissone/alissone/assets/6274136/11cb5117-775c-4622-aaad-3d703332373f)
+
+
+
 # 🕒  Previous work
+
 
 <img width="856" alt="VamoApp Story" src="https://github.com/alissone/alissone/assets/6274136/c4b7a352-bc95-4578-9ab5-74cebc2cd05a">
 

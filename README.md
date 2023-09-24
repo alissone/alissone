@@ -21,7 +21,7 @@
 # 🕒  Previous work
 
 
-<img width="970" alt="VamoApp Story" src="https://github.com/alissone/alissone/assets/6274136/76459b8e-e9c6-4ab6-bd84-9b369f80e520">
+<img width="970" alt="VamoApp Story2" src="https://github.com/alissone/alissone/assets/6274136/e0d33d5f-81ea-458c-b9f2-02015a954a32">
 
 <img width="970" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/dc76fbf1-6213-4cbf-a976-5b64e5737369">
 

@@ -20,9 +20,8 @@
 
 # 🕒  Previous work
 
-<img width="970" alt="VamoApp Storypng" src="https://github.com/alissone/alissone/assets/6274136/02c9c0f9-615d-4192-8dbc-22c42033d109">
-
-<img width="970" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/f8ce4c18-41e8-45d0-9d93-275bc4cd91dd">
+<img width="856" alt="VamoApp Storypng" src="https://github.com/alissone/alissone/assets/6274136/02c9c0f9-615d-4192-8dbc-22c42033d109">
+<img width="856" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/f242c4d4-bfa7-4cda-84dd-ed12f69ffb52">
 
 
 

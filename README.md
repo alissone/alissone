@@ -5,9 +5,7 @@
 
 <br>
 
-## 🤔 What I'm doing currently
-
-👨🏻‍💻 &nbsp; **iOS Engineer** at Vamo
+# 🤔 What I'm doing currently
 
 🎓 &nbsp; Studying **Master in Artificial Intelligence Engineering** at Instituto Superior de Engenharia do Porto
 
@@ -20,7 +18,26 @@
 
 <br>
 
-## 🛠 Tech Stack
+# 🕒  Previous work
+
+
+<img width="960" alt="VamoAppStory" src="https://github.com/alissone/alissone/assets/6274136/60000823-fead-4d1a-8ca7-c0a6bffeeecc">
+
+
+
+[Uneve App - App Store](https://apps.apple.com/br/app/uneve/id1486208965)
+
+[Uneve App - Google Play](https://play.google.com/store/apps/details?id=br.com.uneve.app)
+
+[Uneve Dashboard](https://uneve.com)
+
+[Aggio Dashboard](https://aggio.app)
+
+[Sportzpeak Website and Mobile Apps](https://sportzpeak.com/)
+
+[Omdena Techstars Energy Tech Project](https://omdena.com/projects/detecting-rooftops/)
+
+# 🛠 Tech Stack
 
 
 
@@ -85,18 +102,7 @@
 <br>
 
 
-## 🕒  Previous work
-
-[Uneve App - App Store](https://apps.apple.com/br/app/uneve/id1486208965)
-
-[Uneve App - Google Play](https://play.google.com/store/apps/details?id=br.com.uneve.app)
-
-[Uneve Dashboard](https://uneve.com)
-
-[Aggio Dashboard](https://aggio.app)
-
-[Sportzpeak Website and Mobile Apps](https://sportzpeak.com/)
-
-[Omdena Techstars Energy Tech Project](https://omdena.com/projects/detecting-rooftops/)
 
 <br><br>
+
+# 💼  Side projects

@@ -23,11 +23,9 @@
 <img width="856" alt="VamoApp Story" src="https://github.com/alissone/alissone/assets/6274136/8c5253d4-d33b-406d-a489-e8902f604ae2">
 
 
-</br>
-</br>
-</br>
+</br></br></br></br></br></br>
 
-<img width="856" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/fc71a1a6-af34-4a09-aab6-615ab4ccd632">
+<img width="856" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/8ef02e14-5074-44b5-9088-027fc01702c0">
 
 
 

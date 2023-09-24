@@ -20,12 +20,12 @@
 
 # 🕒  Previous work
 
-<img width="856" alt="VamoApp Story" src="https://github.com/alissone/alissone/assets/6274136/8c5253d4-d33b-406d-a489-e8902f604ae2">
+<img width="856" alt="VamoApp Story" src="https://github.com/alissone/alissone/assets/6274136/c4b7a352-bc95-4578-9ab5-74cebc2cd05a">
 
 
 </br></br></br></br></br></br>
 
-<img width="856" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/8ef02e14-5074-44b5-9088-027fc01702c0">
+<img width="856" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/4494fe48-0643-43f2-9647-4519663c469c">
 
 
 

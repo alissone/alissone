@@ -23,7 +23,8 @@
 
 <img width="970" alt="VamoApp Story" src="https://github.com/alissone/alissone/assets/6274136/76459b8e-e9c6-4ab6-bd84-9b369f80e520">
 
-<img width="970" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/165f3063-4327-46ae-915c-46dda4420da7">
+<img width="970" alt="UneveApp Story" src="https://github.com/alissone/alissone/assets/6274136/dc76fbf1-6213-4cbf-a976-5b64e5737369">
+
 
 
 [Uneve App - App Store](https://apps.apple.com/br/app/uneve/id1486208965)

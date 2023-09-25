@@ -117,3 +117,9 @@
 <br><br>
 
 # 💼  Side projects
+
+#### [Medication Manager](https://github.com/alissone/medication_manager)
+
+
+#### [QR Code Generator](https://github.com/alissone/qr_code_generator)
+
